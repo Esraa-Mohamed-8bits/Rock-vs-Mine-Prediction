@@ -8,10 +8,13 @@ This type of problem is important in naval defense systems where accurate mine d
 **Dataset**
 
 **Source:** Sonar Dataset
-**Features: **60 numerical attributes representing sonar signal strengths
+
+**Features:**60 numerical attributes representing sonar signal strengths
+
 **Target Labels:**
 R → Rock
 M → Mine
+
 **The dataset is stored in:**
 sonar data.csv
 
