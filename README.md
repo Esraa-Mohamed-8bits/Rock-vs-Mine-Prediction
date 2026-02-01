@@ -9,7 +9,7 @@ This type of problem is important in naval defense systems where accurate mine d
 
 **Source:** Sonar Dataset
 
-**Features:**60 numerical attributes representing sonar signal strengths
+**Features:** 60 numerical attributes representing sonar signal strengths
 
 **Target Labels:**
 R → Rock
@@ -38,9 +38,11 @@ sonar data.csv
 **How to Run the Project**
 
 Clone the repository:
+
 git clone https://github.com/YOUR_USERNAME/Rock-vs-Mine-Prediction.git
 
 Open the notebook:
+
 jupyter notebook Project_1_Rock_vs_Mine_Prediction.ipynb
 
 Run all cells to train the model and see predictions.
@@ -57,4 +59,5 @@ The trained model successfully classifies sonar signals into Rock or Mine with g
 - Deploy as a web app
 
 **Author**
+
 **Esraa Mohamed**
