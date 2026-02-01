@@ -13,6 +13,7 @@ This type of problem is important in naval defense systems where accurate mine d
 
 **Target Labels:**
 R → Rock
+
 M → Mine
 
 **The dataset is stored in:**
